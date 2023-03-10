@@ -213,6 +213,6 @@ ul.row {
     display: block;
 }
 
-.social-link svg {
+.social-link > svg {
     background-color: var(--text-color);
 }
