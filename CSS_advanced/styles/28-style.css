@@ -303,6 +303,6 @@ ul.row {
 .header-logo a {
     display: var(--header-logo-link-display);
     position: var(--header-logo-link-position);
-    position: var(--header-logo-link-top);
-    position: var(--header-logo-link-left)  ;
+    vertical-align: var(--header-logo-link-top);
+    margin-left: var(--header-logo-link-left);
 }
