@@ -25,11 +25,11 @@ a:visited {
 }
 
 a:hover {
-    text-decoration-line: underline;
+    text-decoration: underline;
 }
 
 a:active {
-    color: var(--color-light-grey);
+    background-color: var(--color-light-grey);
 }
 
 .visually-hidden {
