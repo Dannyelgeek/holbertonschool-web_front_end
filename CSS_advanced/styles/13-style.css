@@ -16,15 +16,19 @@ a {
     text-decoration: none;
 }
 
-.nav-link:visited {
+a:link {
+    color: var(--color-black);
+}
+
+a:visited {
     font-style: italic;
 }
 
-.nav-link:hover {
+a:hover {
     text-decoration-line: underline;
 }
 
-.nav-link:active {
+a:active {
     color: var(--color-light-grey);
 }
 
