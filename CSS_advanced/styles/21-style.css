@@ -194,7 +194,7 @@ ul.row {
     clear: both;
 }
 
-.col-* {
+.col- * {
     float: left;
     padding: 0.5rem;
 }
