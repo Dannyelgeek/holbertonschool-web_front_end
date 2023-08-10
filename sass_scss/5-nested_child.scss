@@ -1,0 +1,8 @@
+/* How to assign a property to a nested child tag */
+
+body {
+    color: #3D3D3D;
+    >.red {
+        color: #FF0000;
+    }
+}
