@@ -1,0 +1,14 @@
+/* How to create a mixin */
+
+@mixin mrgn($personal_mrg: 10px) {
+    margin-left: $personal_mrg;
+    margin-right: $personal_mrg;
+}
+
+body {
+    @include mrgn;
+}
+
+div {
+    @include mrgn($personal_mrg: 15px);
+}
