@@ -8,3 +8,4 @@ Sass is a CSS preprocessor that endows CSS files with programming language capab
 - How to create and use a variable.
 - How to assign different variables to different tags.
 - How to create a nested tag.
+- How to create a nested class.
