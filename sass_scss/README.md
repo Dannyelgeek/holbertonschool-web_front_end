@@ -5,3 +5,4 @@ Sass is a CSS preprocessor that endows CSS files with programming language capab
 ## Features
 
 - How to prints 'Hello world' in the debug output.
+- How to create and use a variable.
