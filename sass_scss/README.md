@@ -10,3 +10,4 @@ Sass is a CSS preprocessor that endows CSS files with programming language capab
 - How to create a nested tag.
 - How to create a nested class.
 - How to assign a property to a nested child tag.
+- How to nest the hover pseudo-class.
