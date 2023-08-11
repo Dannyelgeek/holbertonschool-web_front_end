@@ -1,0 +1,13 @@
+/* How to create H* tags where * is the size of the font used from 1 to 5 */
+
+$base-font-size: 0px;
+
+@function h_size ($level) {
+    @return $base-font-size + $level;
+}
+
+@for $ind from 1 through 5 {
+    h#{$ind} {
+        font-size: h_size($ind);
+    }
+}
