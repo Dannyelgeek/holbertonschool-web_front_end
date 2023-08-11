@@ -1,0 +1,9 @@
+/* How to create a new class for each name in a lis */
+
+@import '11-photos';
+
+@each $name in $list-names {
+    .clase-#{$name} {
+        background: image-url("photos/#{$name}.jpg") no-repeat;
+    }
+}

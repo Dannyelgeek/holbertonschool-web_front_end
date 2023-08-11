@@ -15,3 +15,4 @@ Sass is a CSS preprocessor that endows CSS files with programming language capab
 - How to create a mixin.
 - How to extend properties.
 - How to import properties from other file.
+- How to create a new class for each name in a list.
