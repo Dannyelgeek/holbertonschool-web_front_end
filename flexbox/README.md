@@ -4,7 +4,7 @@ Flexbox is a CSS layout technique that allows you to create a layout and organiz
 
 ## Features
 
-- How to add `display: flex`
+- How to add `display: flex;`
 - 
 - 
 - 
