@@ -11,3 +11,4 @@ Flexbox is a CSS layout technique that allows you to create a layout and organiz
 - Playing around with the spacing between flex service items.
 - Flexify the header.
 - Flexify the navbar.
+- Align center logo and navbar.
