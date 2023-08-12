@@ -346,6 +346,10 @@
   /* Section HERO
       ============================= */
   
+  .section-hero {
+    
+  }
+
   .section-hero .section-body {
     padding: 10rem 4rem;
   }
