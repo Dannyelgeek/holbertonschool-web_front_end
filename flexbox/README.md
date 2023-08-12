@@ -5,6 +5,6 @@ Flexbox is a CSS layout technique that allows you to create a layout and organiz
 ## Features
 
 - How to add `display: flex;`
-- 
+- Add new classes fot all `section` tags on the page.
 - 
 - 
