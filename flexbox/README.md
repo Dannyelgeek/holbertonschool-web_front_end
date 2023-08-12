@@ -18,3 +18,4 @@ Flexbox is a CSS layout technique that allows you to create a layout and organiz
 - Update the new hero banner.
 - The structure of the main article.
 - The meta list inside the aside section.
+- Add the share social icons.
