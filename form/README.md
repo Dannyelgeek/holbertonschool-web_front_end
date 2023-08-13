@@ -6,7 +6,7 @@ The purpose of this project is to learn how to use forms and their different tag
 
 ## Features
 
-    - How to add `display: flex;`
+    - Basic comment structure.
     - 
     - 
     - 
