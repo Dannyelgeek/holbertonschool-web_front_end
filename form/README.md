@@ -11,3 +11,4 @@ The purpose of this project is to learn how to use forms and their different tag
     - Create labels and input container.
     - Create the inputs.
     - Add help messages.
+    - Add pure HTML / CSS error handling.
