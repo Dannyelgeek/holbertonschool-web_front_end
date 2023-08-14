@@ -9,5 +9,4 @@ The purpose of this project is to learn how to use forms and their different tag
     - Basic comment structure.
     - More comment basic structure.
     - Create labels and input container.
-    - 
-
+    - Create the inputs.
