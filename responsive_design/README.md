@@ -4,8 +4,8 @@ Responsive web design is the practice of using HTML and CSS in such a way that t
 
 ## Features
 
-- 
-- 
+- Fix the hero banner.
+- Make the container flexible.
 - 
 - 
 
