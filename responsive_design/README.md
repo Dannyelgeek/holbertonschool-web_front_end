@@ -9,4 +9,5 @@ Responsive web design is the practice of using HTML and CSS in such a way that t
 - Fix layout issues.
 - Generate images with responsive breakpoints.
 - Create the mobile icon and hide the menu.
+- Create an “hamburger” icon just with CSS.
 
