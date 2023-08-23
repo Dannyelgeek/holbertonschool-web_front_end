@@ -8,5 +8,5 @@ Accessibility is a practice that seeks to adapt web pages to disabled people so 
 - Add the skip-links.
 - Elements must have sufficient color contrast.
 - Documents must have <title> element to aid in navigation.
-- *<html>* element must have a lang attribute.
+- **<html>** element must have a lang attribute.
 
