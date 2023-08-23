@@ -10,3 +10,4 @@ Accessibility is a practice that seeks to adapt web pages to disabled people so 
 - Documents must have `<title>` element to aid in navigation.
 - `<html>` element must have a lang attribute.
 - Images must have alternate text.
+- Form elements must have labels.
