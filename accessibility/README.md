@@ -12,3 +12,4 @@ Accessibility is a practice that seeks to adapt web pages to disabled people so 
 - Images must have alternate text.
 - Form elements must have labels.
 - Links must have discernible text.
+- Zooming and scaling must not be disabled.
