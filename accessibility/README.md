@@ -6,4 +6,5 @@ Accessibility is a practice that seeks to adapt web pages to disabled people so 
 
 - Make the "works" card focus visible.
 - Add the skip-links.
+- Elements must have sufficient color contrast.
 
