@@ -5,4 +5,5 @@ Accessibility is a practice that seeks to adapt web pages to disabled people so 
 ## Features
 
 - Make the "works" card focus visible.
+- Add the skip-links.
 
