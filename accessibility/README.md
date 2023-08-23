@@ -14,3 +14,4 @@ Accessibility is a practice that seeks to adapt web pages to disabled people so 
 - Links must have discernible text.
 - Zooming and scaling must not be disabled.
 - Heading levels should only increase by one and all page content must be contained by landmarks.
+- Document must have one main landmark.
