@@ -4,5 +4,6 @@ Bootstrap is a CSS style library created by Twitter whose main feature is to pro
 
 ## Features
 
-- Reboot styling
-
+- Reboot styling.
+- Blocks.
+- Table of chemical elements.
