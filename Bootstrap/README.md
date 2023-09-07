@@ -9,3 +9,4 @@ Bootstrap is a CSS style library created by Twitter whose main feature is to pro
 - Table of chemical elements.
 - Cards.
 - Bob Dylan.
+- Show/Hide - screen size.
