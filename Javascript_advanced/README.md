@@ -4,4 +4,5 @@ This project is dedicated to practicing JavaScript exercises and the application
 
 ## Features
 
+- Lexical scoping and welcome message.
 - 
