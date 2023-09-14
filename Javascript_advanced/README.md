@@ -11,4 +11,5 @@ This project is dedicated to practicing JavaScript exercises and the application
 - Complex Closure.
 - Changing DOM with closure.
 - Private methods with closure.
+- Stack order and setTimeout.
 - 
