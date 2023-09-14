@@ -9,4 +9,5 @@ This project is dedicated to practicing JavaScript exercises and the application
 - Closure.
 - Closure and loops.
 - Complex Closure.
+- Changing DOM with closure.
 - 
