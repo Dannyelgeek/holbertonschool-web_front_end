@@ -8,4 +8,5 @@ This project is dedicated to practicing JavaScript exercises and the application
 - Closure Scope Chain.
 - Closure.
 - Closure and loops.
+- Complex Closure.
 - 
