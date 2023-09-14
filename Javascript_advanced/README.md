@@ -6,4 +6,5 @@ This project is dedicated to practicing JavaScript exercises and the application
 
 - Lexical scoping and welcome message.
 - Closure Scope Chain.
+- Closure.
 - 
