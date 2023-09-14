@@ -14,4 +14,5 @@ This project is dedicated to practicing JavaScript exercises and the application
 - Stack order and setTimeout.
 - Stack order in functions.
 - Prime numbers & timing execution.
+- Execution stack & timing execution.
 - 
