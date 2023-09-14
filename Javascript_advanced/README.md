@@ -13,4 +13,5 @@ This project is dedicated to practicing JavaScript exercises and the application
 - Private methods with closure.
 - Stack order and setTimeout.
 - Stack order in functions.
+- Prime numbers & timing execution.
 - 
