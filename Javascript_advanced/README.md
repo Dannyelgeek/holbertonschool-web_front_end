@@ -10,4 +10,5 @@ This project is dedicated to practicing JavaScript exercises and the application
 - Closure and loops.
 - Complex Closure.
 - Changing DOM with closure.
+- Private methods with closure.
 - 
