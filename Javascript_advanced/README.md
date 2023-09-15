@@ -17,4 +17,5 @@ This project is dedicated to practicing JavaScript exercises and the application
 - Execution stack & timing execution.
 - Changing stack order using setTimeout.
 - Binding.
+- Binding + Closure.
 - 
