@@ -18,4 +18,4 @@ This project is dedicated to practicing JavaScript exercises and the application
 - Changing stack order using setTimeout.
 - Binding.
 - Binding + Closure.
-- 
+- Simple callback.
